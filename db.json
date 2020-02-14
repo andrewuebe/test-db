@@ -1,0 +1,50 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Cool link",
+    "link": "https://google.com",
+    "type": "website",
+    "note": "I love this website"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Cool book",
+    "link": "https://www.goodreads.com/book/show/84981.Tuck_Everlasting",
+    "type": "book",
+    "note": "I love this book"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Cool video",
+    "link": "https://www.youtube.com/watch?v=jsXmcHws-5k",
+    "type": "video",
+    "note": "I love this video"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Cool link 2",
+    "link": "https://yahoo.com",
+    "type": "website",
+    "note": "Yahoo is one of the best websites I've ever been to!"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "Cool book 2",
+    "link": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501",
+    "type": "book",
+    "note": "This book blew my mind! Can't reccomend this enough."
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "Cool video 2",
+    "link": "https://www.youtube.com/watch?v=wlWCPVgYJZE",
+    "type": "video",
+    "note": "This song slaps HARD."
+  }
+]
