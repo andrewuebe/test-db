@@ -3,7 +3,7 @@
     {
       "userId": 1,
       "id": 1,
-      "title": "Cool link",
+      "title": "Google.com",
       "link": "https://google.com",
       "type": "website",
       "note": "I love this website"
@@ -11,7 +11,7 @@
     {
       "userId": 1,
       "id": 2,
-      "title": "Cool book",
+      "title": "Tuck Everlasting",
       "link": "https://www.goodreads.com/book/show/84981.Tuck_Everlasting",
       "type": "book",
       "note": "I love this book"
@@ -19,7 +19,7 @@
     {
       "userId": 1,
       "id": 3,
-      "title": "Cool video",
+      "title": "myspace about me",
       "link": "https://www.youtube.com/watch?v=jsXmcHws-5k",
       "type": "video",
       "note": "I love this video"
@@ -27,7 +27,7 @@
     {
       "userId": 1,
       "id": 4,
-      "title": "Cool link 2",
+      "title": "Yahoo.com",
       "link": "https://yahoo.com",
       "type": "website",
       "note": "Yahoo is one of the best websites I've ever been to!"
@@ -35,7 +35,7 @@
     {
       "userId": 1,
       "id": 5,
-      "title": "Cool book 2",
+      "title": "Educated, a memoir by Tara Westover",
       "link": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501",
       "type": "book",
       "note": "This book blew my mind! Can't reccomend this enough."
@@ -43,7 +43,7 @@
     {
       "userId": 1,
       "id": 6,
-      "title": "Cool video 2",
+      "title": "Little Einsteins theme song remix",
       "link": "https://www.youtube.com/watch?v=wlWCPVgYJZE",
       "type": "video",
       "note": "This song slaps HARD."
