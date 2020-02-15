@@ -48,5 +48,25 @@
       "type": "video",
       "note": "This song slaps HARD."
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Andrew",
+      "itemsDonated": 4,
+      "itemsBorrowed": 0
+    },
+    {
+      "id": 2,
+      "name": "Sara",
+      "itemsDonated": 1,
+      "itemsBorrowed": 0
+    },
+    {
+      "id": 3,
+      "name": "Daniel",
+      "itemsDonated": 1,
+      "itemsBorrowed": 0
+    },
   ]
 }
